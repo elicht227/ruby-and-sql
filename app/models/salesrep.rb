@@ -1,0 +1,2 @@
+class Salesrep < ApplicationRecord
+end
